@@ -12,6 +12,7 @@
                 "-g",
                 "${file}",
                 "sort.c",
+                "print.c",
                 "-o",
                 "${fileBasenameNoExtension}.exe",
                 "-fexec-charset=GBK"
